@@ -1,0 +1,15 @@
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('AIP', 'American’s Party of Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('CPF', 'Constitution Party of Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('DEM', 'Florida Democratic Party');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('ECO', 'Ecology Party of Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('FSW', 'Florida Socialist Workers Party');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('GRE', 'Green Party of Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('IDP', 'Independence Party of Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('INT', 'Independent Party of Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('JPF', 'Justice Party of Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('LPF', 'Libertarian Party of Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('PSL', 'Party for Socialism and Liberation - Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('PFP', 'Peace & Freedom Party of Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('REF', 'Reform Party');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES ('REP', 'Republican Party of Florida');
+INSERT INTO `voter_database`.`party_codes` (`code`, `Description`) VALUES('TPF', 'Tea Party of Florida');
